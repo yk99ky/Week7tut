@@ -1,1 +1,3 @@
 print("byeworld")
+
+head(mtcars)
